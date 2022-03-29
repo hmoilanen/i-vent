@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "@capacitor/core": "^3.4.3",
+    "@volar/vue-language-service": "^0.33.9",
     "vue": "^3.2.25"
   },
   "devDependencies": {
